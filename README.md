@@ -1,9 +1,9 @@
 # nibbler
 A re-imagination of the classical snake game utilizing 3 different dynamic libraries
 
-This project was done in collaboration with Liam Dehaudt at 42.
+This project was done in collaboration with Conan Wu at 42 Silicon Valley.
 
-All graphics are designed and produced in-house.
+All graphics are designed and produced in-house by Conan.
 
 ## Compiling and running
 Run `make`. An executable will compile. Currently only tested on OS X.
