@@ -1,5 +1,5 @@
 # nibbler
-A re-imagination of the classical snake game utilizing 3 different dynamic libraries
+A re-imagination of the classic snake game utilizing 3 different dynamic libraries
 
 This project was done in collaboration with Conan Wu at 42 Silicon Valley.
 
