@@ -5,6 +5,8 @@ This project was done in collaboration with Conan Wu at 42 Silicon Valley.
 
 All graphics are designed and produced in-house by Conan.
 
+Life is good. Enjoy ^-^
+
 ## Compiling and running
 Run `make`. An executable will compile. Currently only tested on OS X.
 
